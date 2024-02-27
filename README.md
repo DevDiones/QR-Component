@@ -32,8 +32,8 @@ Mobile View
 
 ### Links
 
-- Solution URL: [https://github.com/DevDiones/Recipe-Page](https://github.com/DevDiones/Recipe-Page)
-- Live Site URL: [https://devdiones.github.io/Recipe-Page/](https://devdiones.github.io/Recipe-Page/)
+- Solution URL: [https://github.com/DevDiones/QR-Component](https://github.com/DevDiones/QR-Component)
+- Live Site URL: [https://devdiones.github.io/QR-Component/](https://devdiones.github.io/QR-Component/)
 
 ## Author
 
